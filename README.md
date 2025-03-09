@@ -98,7 +98,7 @@ My journey began as a *Practical Assistant Lecturer* at Universitas Teknologi Yo
   *Developed Strong Foundations in Programming, Data Structures, Databases, Machine Learning, and Data Analytics*  
 
 - **Hacktiv8 Data Science Bootcamp**  
-  *Core Skills Developed:* Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, A/B Testing, Feature Engineering, ETL Development, Data Pipeline Automation  
+  *Core Skills Developed:* Data Wrangling, Visualization, Statistical Analysis, Machine Learning, Deep Learning, NLP, SQL, Feature Engineering, ETL Development, Data Pipeline Automation  
 
 ---
 
