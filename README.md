@@ -49,8 +49,8 @@ Developing machine learning models to create data-driven solutions that support 
 - Building impactful data visualizations with Tableau, Power BI, and Looker Studio  
 
 ### 📫 **How to reach me:**  
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/yuana-inka-dewi-sinnulingga/)  
-- **Email**: yuana.inka.dewi@gmail.com  
+- **LinkedIn**: [[Connect on LinkedIn](https://www.linkedin.com/in/inka-sinulingga/) 
+- **Email**: yinkasinulingga@gmail.com 
 
 ### 😄 **Pronouns:**  
 She/Her  
