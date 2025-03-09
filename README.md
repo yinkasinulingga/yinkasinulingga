@@ -46,7 +46,7 @@ Developing machine learning models to create data-driven solutions that support 
 ### 💬 **Ask me about**  
 - Data Analysis, Data Engineering, and Machine Learning  
 - ETL Development and Data Pipeline Automation  
-- Building impactful data visualizations with Tableau, Power BI, and Looker Studio  
+- Building impactful data visualizations with Tableau, Power BI, Looker Studio, and Kibana
 
 ### 📫 **How to reach me:**  
 - **LinkedIn**: [[Connect on LinkedIn](https://www.linkedin.com/in/inka-sinulingga/) 
