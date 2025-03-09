@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-# **Yuana Inka Dewi Br Sinulingga - Data Analyst / Data Engineer / Data Scientist**  
+## **I'm Yuana Inka Dewi Br Sinulingga - Data Analyst / Data Engineer / Data Scientist**  
 
 👋 **Hello and welcome!**  
 
